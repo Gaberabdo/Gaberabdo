@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Gaber Abdelrheem</h1>
 <h3 align="start">A passionate mobile developer and website developer from Egypt</h3>
 
-- 🔭 I’m currently working on **4Sale**
+- 🔭 I’m currently working on **SQueal**
 
 - 🌱 I’m currently learning **.NET backend**
 
